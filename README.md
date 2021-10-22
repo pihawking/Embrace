@@ -8,5 +8,5 @@ Embrace is an Coaching Centre Management System made using C++ on Turbo C++. It 
 
 It has majorly 3 users:
 1. Admin:
-  1. Takes care of classes and rescheduling.
-  2. Has overall control of the system.
+  i. Takes care of classes and rescheduling.
+  ii. Has overall control of the system.
