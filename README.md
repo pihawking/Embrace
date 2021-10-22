@@ -18,7 +18,3 @@ It has majorly 3 users:
   ii. Can look various at contact details.
   
   
-  
-  1. Employee
-    1. See inventory
-    2. Add new items
